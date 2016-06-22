@@ -1,0 +1,24 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: black;
+}
+
+/*.container {
+  width:680px;
+  margin:0 auto;
+}*/
+
+.video {
+  width:100vw;
+  height: 100vh;
+  border-radius:100px;
+  overflow: hidden;
+}
+
+#video {
+  width:100vw;
+  height: 100vh;
+  border-radius:100px;
+  overflow: hidden;
+}
